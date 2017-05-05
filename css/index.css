@@ -1,0 +1,53 @@
+html {
+	font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+}
+
+.dropdown-menu {
+	border: 2px solid black;
+	background-color: lightgrey;
+}
+
+.jumbotron {
+	height: 300px;
+	padding-top: 80px;
+}
+
+h2 {
+	padding-left: 10px;
+}
+
+#videos {
+	text-align: center;
+}
+
+#story {
+	text-align: justify;
+	letter-spacing: .75px;
+	font-size: 14pt;
+	padding-top: 10px;
+	text-indent: 30px;
+	padding-left: 50px;
+}
+
+footer {
+	background-color: black;
+	width: 100%;
+	height: auto;
+}
+
+footer ul li {
+	display: inline-block;
+	list-style: none;
+	padding: 2%;
+	float: right;
+}
+
+footer p, a {
+	float: left;
+	padding: 2%;
+	color: white;
+}
+
+footer p {
+	font-size: 13pt;
+}
