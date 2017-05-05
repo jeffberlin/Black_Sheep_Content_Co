@@ -20,6 +20,10 @@
 	}
 }
 
+@media screen and (max-width: 644px) {
+	
+}
+
 @media screen and (max-width: 549px) {
 	.jumbotron h1 {
 		font-size: 24pt;
@@ -27,6 +31,7 @@
 	.jumbotron h4 {
 		font-size: 8pt;
 	}
+	
 }
 
 @media screen and (max-width: 419px) {

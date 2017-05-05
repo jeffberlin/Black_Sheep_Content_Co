@@ -20,6 +20,10 @@ h2 {
 	text-align: center;
 }
 
+iframe {
+	padding-bottom: 12px;
+}
+
 #story {
 	text-align: justify;
 	letter-spacing: .75px;
