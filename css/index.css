@@ -65,49 +65,14 @@ html, body {
 
 .companies {
 	display: flex;
-	padding-top: 1rem;
+	padding-top: 3rem;
 }
 
 .comp-logos img {
 	height: 40px;
-	margin-bottom: 2rem;
-}
-
-.comp-logos {
-
-}
-
-.hillsborough-video {
-	padding-top: 1rem;
+	margin-bottom: 5rem;
 }
 
 .videos {
 	margin-top: 2rem;
-}
-
-/*iframe {
-	padding-bottom: 12px;
-}*/
-
-footer {
-	background-color: black;
-	width: 100%;
-	height: auto;
-}
-
-footer ul li {
-	display: inline-block;
-	list-style: none;
-	padding: 2%;
-	float: right;
-}
-
-footer p, footer a {
-	float: left;
-	padding: 2%;
-	color: white;
-}
-
-footer p {
-	font-size: 13pt;
 }
