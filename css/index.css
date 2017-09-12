@@ -50,12 +50,12 @@ html, body {
 	padding-bottom: 2rem;
 }
 
-.about h2 {
+.about h2, .offer h2 {
 	padding-left: 10px;
 	padding-top: 2rem;
 }
 
-.story {
+.story p {
 	letter-spacing: .75px;
 	font-size: 14pt;
 	padding-top: 1rem;
