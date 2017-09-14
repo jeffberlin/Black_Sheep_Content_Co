@@ -51,9 +51,10 @@ html, body {
 	padding-bottom: 2rem;
 }
 
-.about h2, .offer h2 {
+.header {
 	padding-left: 10px;
 	padding-top: 2rem;
+	margin-bottom: 1rem;
 }
 
 .story p {
@@ -82,5 +83,6 @@ html, body {
 .contact {
 	background-color: black;
 	color: white;
-	padding-top: 100px;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
 }
