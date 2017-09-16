@@ -175,3 +175,8 @@ function ParseChar(sStr, sChar) {
 
     return sNewStr;
 }
+
+// Submit button
+function submitMessage() {
+	alert("Unfortunately this is a sample page, so there's no where to send it!")
+}
