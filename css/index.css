@@ -90,3 +90,7 @@ html, body {
 button {
 	margin-top: 1rem;
 }
+
+button:hover {
+	cursor: pointer;
+}
